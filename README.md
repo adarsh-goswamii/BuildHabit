@@ -77,7 +77,7 @@ This script will generate the daily image using your tracked data.
 ## 📂 Project Structure (Sample)
 
 ```
-BuildHabit/
+BuildHabit/src
 │
 ├— main.py               # FastAPI app
 ├— services/
